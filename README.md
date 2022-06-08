@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanawaz</h1>
-<h3 align="center">A passionate programer</h3>
+<h3 align="center">hi, i'm Md shanawaz, a passionate self-taught programmer and a full stack web developer from india. i love problem-solving and have solved over 300+ problems on various coding platforms , i also have a keen interest in web development and competitive programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123shanawaz&label=Profile%20views&color=0e75b6&style=flat" alt="123shanawaz" /> </p>
 
