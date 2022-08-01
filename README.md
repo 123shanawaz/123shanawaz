@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h1 align="center">HI I'm Aman Mandal 👋  </h1>
+<h1 align="center">HI I'm Md Shanawaz 👋  </h1>
 
 - *A Frontend Developer 💻* <br />
 - Currently learning *Next JS*
