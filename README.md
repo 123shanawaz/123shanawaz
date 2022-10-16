@@ -63,9 +63,9 @@
 
 ##
 
-<a href="https://twitter.com/AmanMandal_">
+<a href="https://twitter.com/shanawazm8276">
   <img align="right" alt="Aman Mandal | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
-<a href="https://www.linkedin.com/in/amanmandal/">
+<a href="https://www.linkedin.com/in/md-shanawaz-2baa74200/">
   <img align="right" alt="Aman Mandal | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
